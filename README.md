@@ -6,6 +6,4 @@ hey
 
 #new new changes
 
-on the master branch, caused conflict
-
-modified in git stash session
+on the master branch, for stashing
